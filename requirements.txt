@@ -1,0 +1,14 @@
+opencv-python==4.10.0.84     # For video processing and face detection
+numpy==1.26.4                # Numerical operations
+streamlit==1.38.0            # Web app framework
+pillow==10.4.0               # Image handling
+librosa==0.10.2.post1        # Audio feature extraction (MFCCs)
+moviepy==1.0.3               # Video to audio extraction
+matplotlib==3.9.2            # Visualization (e.g., plotting emotion distributions)
+scikit-learn==1.5.2          # Metrics (e.g., accuracy, confusion matrix)
+tqdm==4.66.5                 # Progress bars for training
+reportlab==4.2.2  # For PDF generation
+plotly==5.22.0
+kaleido==0.2.1
+transformers==4.39.3
+vaderSentiment
